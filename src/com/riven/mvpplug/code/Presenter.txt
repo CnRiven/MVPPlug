@@ -1,0 +1,13 @@
+package &package&;
+
+import &mvp&.base.BasePAV;
+
+/**
+ * Description:
+ * Author:
+ * Date:
+ */
+
+public class &Presenter& extends BasePAV<&Contract&.View> implements &Contract&.Presenter{
+    
+}

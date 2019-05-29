@@ -1,0 +1,14 @@
+package &package&;
+
+
+import &mvp&.base.BaseFragment;
+
+/**
+ * Description:
+ * Author:
+ * Date:
+ */
+
+public class &Fragment& extends BaseFragment<&Presenter&> implements &Contract&.View {
+
+}

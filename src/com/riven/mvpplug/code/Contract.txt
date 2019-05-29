@@ -1,0 +1,20 @@
+package &package&;
+
+import &mvp&.base.BasePresenter;
+import &mvp&.base.BaseView;
+
+/**
+ * Description:
+ * Author:
+ * Date:
+ */
+
+public class &Contract& {
+    interface View extends BaseView {
+        
+    }
+
+    interface  Presenter extends BasePresenter<View> {
+        
+    }
+}

@@ -1,0 +1,13 @@
+package &package&;
+
+import &mvp&.base.BaseActivity;
+
+/**
+ * Description:
+ * Author:
+ * Date:
+ */
+
+public class &Activity& extends BaseActivity<&Presenter&> implements &Contract&.View {
+
+}
